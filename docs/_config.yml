@@ -19,31 +19,20 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Appunti by Fabio Bonsignore
-email: bafioinfo@gmail.com
+email: bafiowork@gmail.com
 description: >-
-  Benvenuto! Qui sotto sono presenti i link per gli appunti. 
-  È severamente vietato vendere questi appunti in questa forma/modificata. 
-  Il progetto è pubblico e in continua modifica; ogni visitatore è invitato a segnalare errori nei file, 
-  che verranno sistemati e verrà dato credito a chi ha fornito supporto.
-domain: bafioes.github.io
-url: "https://bafioes.github.io"
-baseurl: ""
-instagram_username:
+  Benvenuto! Qui sotto sono presenti i link per gli appunti. È severamente vietato vendere questi appunti in questa forma/modificata.
+  Il progetto è pubblico e in continua modifica; ogni visitatore è invitato a segnalare errori nei file, che verranno sistemati e verrà dato credito a chi ha fornito supporto.
 github_username: bafioes
 
 # Build settings
-remote_theme: pages-themes/midnight@v0.2.0
+theme: jekyll-theme-midnight
 plugins:
-  - jekyll-remote-theme
   - jekyll-feed
-instagram_username: bafiobosni
-github_username:  bafioes
 
-# Build settings
-remote_theme: pages-themes/midnight@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-- jekyll-feed
+domain: bafioes.github.io
+url: "https://bafioes.github.io"
+baseurl: ""
 
 # Exclude from processing.
 # The following items will not be processed, by default.
