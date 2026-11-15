@@ -9,4 +9,4 @@ Il corso di geometria 2 è un corso introduttivo alla geometria differenziale da
 
 [Geometria 2](Geometria2.pdf)
 
-* [Torna all'homepage](/)
+* [Torna alla homepage](/)
