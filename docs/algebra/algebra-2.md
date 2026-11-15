@@ -7,4 +7,4 @@ title: Algebra 2
 
 Descrizione del corso e degli appunti di Algebra 2.
 
-[Algebra 2](algebra2.pdf)
+[Algebra 2](Algebra2.pdf)
