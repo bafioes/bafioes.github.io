@@ -12,4 +12,4 @@ title: Analisi
 * [Analisi 3](analisi-3.html)
 * [Analisi Complessa](analisi-complessa.html)
 
-* [Torna all'homepage](/)
+* [Torna alla homepage](/)
