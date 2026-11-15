@@ -5,7 +5,10 @@ title: Altro
 
 # Altro
 
+* [Fisica 1](fisica-1.html)
 * [Fisica 2](fisica-2.html)
 * [Sistemi dinamici e meccanica classica](sistemi.html)
+* [Algoritmi e programmazione](poo.html)
 
-* [Torna all'homepage](/)
+
+* [Torna alla homepage](/)
