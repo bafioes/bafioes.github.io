@@ -3,7 +3,7 @@ layout: default
 title: Geometria
 ---
 
-# Algebra
+# Geometria
 
 * [Geometria 1](geometria-1.html)
 * [Geometria 2](geometria-2.html)
