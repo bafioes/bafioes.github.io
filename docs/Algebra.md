@@ -1,3 +1,6 @@
-layout: page
-title: "Algebra"
+---
+layout: default
+title: Algebra
 permalink: /appunti/algebra
+---
+
