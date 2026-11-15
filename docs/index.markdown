@@ -2,7 +2,11 @@
 layout: default
 title: Home
 ---
+
+# Informazioni
+
 * [About me](about-me.html)
+  
 # Settori disciplinari
 
 * [Algebra](algebra/)
