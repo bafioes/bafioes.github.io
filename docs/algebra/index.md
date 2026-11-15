@@ -8,8 +8,8 @@ title: Algebra
 * [Algebra 1](algebra-1.html)
 * [Algebra 2](algebra-2.html)
 * [Algebra 3](algebra-3.html)
-* [Representation Theory](representation-theory.html)
-* [Geoemetric Group Theory](geometric-group-theory.html)
-* [Teoria dei numeri e crittografia](teoria-dei-numeri.html)
+* [Representation Theory (wip)](representation-theory.html)
+* [Geoemetric Group Theory (wip)](geometric-group-theory.html)
+* [Teoria dei numeri e crittografia (wip)](teoria-dei-numeri.html)
 
 * [Torna all'homepage](/)
