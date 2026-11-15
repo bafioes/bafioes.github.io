@@ -3,7 +3,7 @@ layout: default
 title: Analisi Numerica
 ---
 
-# Algebra
+# Analisi numerica
 
 * [Calcolo Numerico](calcolo-numerico.html)
 * [Analisi Numerica](analisi-numerica.html)
