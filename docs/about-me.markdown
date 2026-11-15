@@ -20,7 +20,7 @@ Se trovi errori, refusi o vuoi suggerire miglioramenti agli appunti, puoi aprire
 
 Se volessi supportare il mio lavoro, qui sotto trovi il mio recapito PayPal
 
-* **PayPal:** [Supporta gli appunti su PayPal](https://www.paypal.me/tuo_username)
+* **PayPal:** [Supporta gli appunti su PayPal](https://www.paypal.me/bafioes)
 
 ## Altri contatti
 
