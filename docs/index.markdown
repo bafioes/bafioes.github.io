@@ -7,5 +7,9 @@ title: Home
 
 Welcome to my notes!
 
-* [Algebra](Algebra.html)
+* [Algebra](algebra/)
+* [Geometria](geometria/)
+* [Analisi](analisi/)
+* [Analisi Numerica](analisi-numerica/)
+* [Altro](altro/)
 * [About](about.html)
