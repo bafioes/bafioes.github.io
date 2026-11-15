@@ -9,4 +9,4 @@ Il corso di geometria 3 è un corso di topologia algebrica. I suoi contenuti si 
 
 [Geometria 3](Geometria3.pdf)
 
-* [Torna all'homepage](/)
+* [Torna alla homepage](/)
