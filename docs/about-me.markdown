@@ -13,7 +13,7 @@ Se trovi errori, refusi o vuoi suggerire miglioramenti agli appunti, puoi aprire
 
 ## Contatti
 
-* **Email:** [bafioinfo@gmail.com](mailto:bafioinfo@gmail.com)
+* **Email:** [bafiowork@gmail.com](mailto:bafiowork@gmail.com)
 * **GitHub:** [@bafioes](https://github.com/bafioes)
 
 ## Donazioni
