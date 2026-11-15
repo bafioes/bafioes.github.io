@@ -13,5 +13,5 @@ title: Geometria
 * [Geometria simplettica (wip)](geometria-simplettica.html)
 * [Geometria e topologia differenziale (wip)](geometria-differenziale.html)
 
-* [Torna all'homepage](/)
+* [Torna alla homepage](/)
 
