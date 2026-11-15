@@ -9,4 +9,4 @@ Il corso di geometria 1 è un corso di topologia. I suoi contenuti, oltre agli s
 
 [Geometria 1](Geometria1.pdf)
 
-* [Torna all'homepage](/)
+* [Torna alla homepage](/)
