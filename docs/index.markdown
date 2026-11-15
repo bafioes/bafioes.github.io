@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-* [About me](about.html)
+* [About me](about-me.html)
 # Settori disciplinari
 
 * [Algebra](algebra/)
@@ -10,7 +10,6 @@ title: Home
 * [Analisi](analisi/)
 * [Analisi Numerica](analisi-numerica/)
 * [Altro](altro/)
-*
 
 # Classificazione delle note
 
