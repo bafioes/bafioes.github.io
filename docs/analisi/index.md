@@ -11,3 +11,5 @@ title: Analisi
 * [Calcolo delle probabilità](calcolo-delle-probabilità.html)
 * [Analisi 3](analisi-3.html)
 * [Analisi Complessa](analisi-complessa.html)
+
+* [Torna all'indice](/docs)
