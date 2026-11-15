@@ -7,8 +7,8 @@ title: Analisi Numerica
 
 * [Calcolo Numerico](calcolo-numerico.html)
 * [Analisi Numerica](analisi-numerica.html)
-* [Metodi numerici per le equazioni alle derivate parziali](pde.html)
-* [Metodi numerici avanzati per le equazioni alle derivate parziali](pde-avanzate.html)
+* [Metodi numerici per le equazioni alle derivate parziali (wip)](pde.html)
+* [Metodi numerici avanzati per le equazioni alle derivate parziali (wip)](pde-avanzate.html)
 
 * [Torna all'homepage](/)
 
