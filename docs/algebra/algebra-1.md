@@ -11,4 +11,4 @@ Gli appunti sono interamente opera del dottor Centin e ai professori Di Martino 
 
 [Algebra 1](PrevitaliCentin-Algebra1.pdf)
 
-* [Torna all'homepage](/)
+* [Torna alla homepage](/)
