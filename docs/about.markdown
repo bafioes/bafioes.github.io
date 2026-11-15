@@ -1,18 +1,26 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: default
+title: About me
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# About me
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Ciao! Sono **Fabio Bonsignore**. In questo sito raccolgo e condivido appunti universitari gratuiti e aperti al contributo di tutti.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Sono uno studente all'università di studi Milano-Bicocca, attualmente frequentante il corso magistrale in matematica.
 
+Se trovi errori, refusi o vuoi suggerire miglioramenti agli appunti, puoi aprire una Issue o una Pull Request direttamente su GitHub, oppure contattarmi tramite i recapiti qui sotto.
 
-[jekyll-organization]: https://github.com/jekyll
+## Contatti
+
+* **Email:** [{{ site.email }}](mailto:{{ site.email }})
+* **GitHub:** [@{{ site.github_username }}](https://github.com/{{ site.github_username }})
+
+## Donazioni
+
+Se volessi supportare il mio lavoro, qui sotto trovi il mio recapito PayPal
+
+* **PayPal:** (@bafioes)
+---
+
+[← Torna alla homepage](/)
