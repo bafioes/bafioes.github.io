@@ -18,14 +18,21 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Settori disciplinari
+title: Appunti by Fabio Bonsignore
 email: bafioinfo@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+description: >-
+  Benvenuto! Qui sotto sono presenti i link per gli appunti. È severamente vietato vendere questi appunti in questa forma/modificata. Il progetto è pubblico e in continua modifica; ogni visitatore è invitato a segnalare errori nei file, che verranno sistemati e verrà dato credito a chi ha fornito supporto.
+domain: bafioes.github.io
+url: "https://bafioes.github.io"
+baseurl: ""
+instagram_username:
+github_username: bafioes
+
+# Build settings
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
 instagram_username: bafiobosni
 github_username:  bafioes
 
