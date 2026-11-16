@@ -23,7 +23,7 @@ Previtali). Per tutte le altre note, è doveroso puntualizzare che molte hanno s
 di trascrizione per intero dai miei appunti manoscritti) da LLM, tipicamente deepseek. Sebbene le abbia comunque ricontrollate,
 è bene segnalare che potrebbero essere presenti errori in tali note. A tal fine, userò la seguente classificazione:
 
-* A: note che sono state per redatte e corrette per intero da umani.
+* A: note che sono state redatte e corrette per intero da umani.
 * B: note che sono state redatte da umani ma che sono state revisionate nella forma da LLM.
 * C: note che sono state interamente trascritte da LLM.
 
