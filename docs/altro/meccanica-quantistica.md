@@ -7,7 +7,7 @@ title: Meccanica Quantistica
 
 Il corso di Meccanica Quantistica tratta i concetti fondamentali della meccanica quantistica. 
 
-[Meccanica Quantistica)](meccanica-quantistica.pdf)
+[Meccanica Quantistica](meccanica-quantistica.pdf)
 
 * [Torna alla homepage](/)
 
