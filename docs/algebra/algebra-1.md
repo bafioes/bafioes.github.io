@@ -9,6 +9,6 @@ Il corso di algebra 1 è un corso introduttivo all'algebra astratta. Il suo cont
 
 Gli appunti sono interamente opera del dottor Centin e ai professori Di Martino e Previtali.
 
-[Algebra 1](PrevitaliCentin-Algebra1.pdf)
+[Algebra 1](algebra-1.pdf)
 
 * [Torna alla homepage](/)
