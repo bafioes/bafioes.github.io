@@ -5,7 +5,7 @@ title: About me
 
 # About me
 
-Ciao! Sono **Fabio Bonsignore**. In questo sito raccolgo e condivido appunti universitari gratuiti e aperti al contributo di tutti.
+Ciao! Sono Fabio Bonsignore. In questo sito raccolgo e condivido appunti universitari gratuiti e aperti al contributo di tutti.
 
 Sono uno studente all'università degli studi Milano-Bicocca, attualmente frequentante il corso magistrale in matematica.
 
