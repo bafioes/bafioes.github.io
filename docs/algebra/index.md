@@ -5,7 +5,7 @@ title: Algebra
 
 # Algebra
 
-* [Algebra lineare e Geometria (wip)](gal.html)
+* [Algebra lineare e Geometria](gal.html)
 * [Algebra 1](algebra-1.html)
 * [Algebra 2](algebra-2.html)
 * [Algebra 3](algebra-3.html)
