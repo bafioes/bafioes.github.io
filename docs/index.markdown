@@ -17,8 +17,7 @@ title: Home
 
 # Classificazione delle note
 
-Le note presenti non sono tutte scritte e revisionate interamente da me. Le note di Algebra lineare e Geometria
-non sono state prodotte da me e non mi prendo alcun merito, che va dato al professor Mongodi. Per tutte le altre note, è doveroso puntualizzare che molte hanno subito un processo di revisione (o addirittura
+Le note presenti non sono tutte scritte e revisionate interamente da me. È doveroso puntualizzare che molte note hanno subito un processo di revisione (o addirittura
 di trascrizione per intero dai miei appunti manoscritti) da LLM, tipicamente deepseek. Sebbene le abbia comunque ricontrollate,
 è bene segnalare che potrebbero essere presenti errori in tali note. A tal fine, userò la seguente classificazione:
 
